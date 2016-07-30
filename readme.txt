@@ -12,18 +12,18 @@ A plug-in for easily creating expand collapse blocks on page or post.
 
 == Description ==
 
-This Plug-in will help for creating blocks which could collapse or expand by just using few tags and rest will be taken care by this plug-in. Very easy to use but first follow the installation instructions before using it.
+This Plug-in will help for creating blocks which could collapse or expand on a Page or Post by just using few tags and rest will be taken care by this plug-in. Very easy to use but first follow the installation instructions before using it.
 
 Demo: http://devchakra.com/magazine/sirus-notes/sirus-july-2016-notes/ec-blocks/
 Example Source Code: https://github.com/sirusdas/Expand-Collapse-Blocks/blob/master/example/ec-block.txt
 
 
 == Installation ==
-
-1. Install the AddQuickTag(https://wordpress.org/plugins/addquicktag/) plug-in for using this plug-in with ease.
+0. Download this plug-in and activate it.
+1. You can also Install the AddQuickTag(https://wordpress.org/plugins/addquicktag/) plug-in for using this plug-in with ease.
 2. Then Download this file https://github.com/sirusdas/Expand-Collapse-Blocks then unzip it.
-3. Go to AddQuickTag Settings and import the file name "addquicktag.-07-30-2016.json" which is in the unzipped folder.
-4. Download this plug-in and activate it. 
+3. Go to AddQuickTag Settings and import the file name "addquicktag.-07-30-2016.json" which is in the unzipped folder or create your own if you know what you are doing.
+ 
 
 NOTE: Automatic Paragraph wont work when this plug-in is installed. 
 
@@ -57,8 +57,8 @@ For <h1>Apple types</h1> then <a class="sh1">+</a>
 	<h5>Apple types</h5> then <a class="sh5">+</a>
 	<h6>Apple types</h6> then <a class="sh6">+</a>
 
-	But you don't need to write this much if you follow the installation instruction properly you will get all this as buttons on your editor.
-	Which will be named as 
+	But you don't need to write this much if you follow the installation instruction properly you will get all this as buttons on your editor which help of QuickTags Plugin.
+	Buttons will be named as 
 	For "<div class="shb">"   => Named as "NOTE"
 	For "<a class="sh0,sh1,..">+</a>" => Named as "Button", "h1 Button", "h2 Button", "h3 Button", "h4 Button", "h5 Button", "h6 Button"
      
