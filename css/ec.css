@@ -1,0 +1,69 @@
+/**
+ * Plugin Name:   Expand Collapse Blocks
+ * Plugin URI:    http://devchakra.com/
+ * Description:   The easiest way for converting any block to Expand & Collapase Blocks
+ * Author:        Sirus Das
+ * Author URI:    http://devchakra.com
+ * Version:       0.0.1
+ * Text Domain:   ec-block
+ *
+ * GitHub Plugin URI: https://gist.github.com/sirusdas/f299cdec64343e6822ad54627265ac94
+ *
+ * @package     ec-block
+ * @category    Core
+ * @author      Sirus Das
+ * @copyright   Copyright (c) 2016, Sirus Das
+ * @license     http://opensource.org/licenses/https://opensource.org/licenses/MIT
+ * @since       1.0
+ */  
+sh{
+        display: none;
+}
+
+.wpe-box .sh0{
+    float: right;
+    position: relative;
+    cursor:pointer;
+}
+
+.wpe-box .sh2{
+    float: right;
+    position: relative;
+    top: -45px;
+    cursor:pointer;
+}
+
+.wpe-box .sh1{
+    float: right;
+    position: relative;
+    top: -49px;
+    cursor:pointer;
+}
+
+.wpe-box .sh3{
+    float: right;
+    position: relative;
+    top: -42px;
+    cursor:pointer;
+}
+
+.wpe-box .sh4{
+    float: right;
+    position: relative;
+    top: -35px;
+    cursor:pointer;
+}
+
+.wpe-box .sh5{
+    float: right;
+    position: relative;
+    top: -32px;
+    cursor:pointer;
+}
+
+.wpe-box .sh6{
+    float: right;
+    position: relative;
+    top: -32px;
+    cursor:pointer;
+}
