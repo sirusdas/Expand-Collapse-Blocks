@@ -20,67 +20,11 @@ sh{
         display: none;
 }
 
-.wpe-box .sh0{
+.sh0{
     float: right;
     position: relative;
     cursor:pointer;
-}
-
-.wpe-box .sh2{
-    float: right;
-    position: relative;
-    top: -45px;
-    cursor:pointer;
-}
-
-.wpe-box .sh1{
-    float: right;
-    position: relative;
-    top: -49px;
-    cursor:pointer;
-}
-
-.wpe-box .sh3{
-    float: right;
-    position: relative;
-    top: -42px;
-    cursor:pointer;
-}
-
-.wpe-box .sh4{
-    float: right;
-    position: relative;
-    top: -35px;
-    cursor:pointer;
-}
-
-.wpe-box .sh5{
-    float: right;
-    position: relative;
-    top: -32px;
-    cursor:pointer;
-}
-
-.wpe-box .sh6{
-    float: right;
-    position: relative;
-    top: -32px;
-    cursor:pointer;
-}
-
-/*Block Css */
-.wpe-box-note {
-    background: #eee none repeat scroll 0 0;
-    border: 1px solid #ccc;
-}
-.wpe-box {
-    box-sizing: border-box;
-    display: block;
-    margin: 0 auto 25px;
-    padding: 6px 9px;
-    width: 100%;
-}
-a.wpe-button {
+	
     background-color: #eee;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -91,10 +35,135 @@ a.wpe-button {
     margin: 0;
     padding: 6px 15px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none;	
 }
-a.wpe-button.wpe-button-white {
+
+.sh2{
+    float: right;
+    position: relative;
+    top: -45px;
+    cursor:pointer;
+	
     background-color: #eee;
-    border-color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
     color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
 }
+
+.sh1{
+    float: right;
+    position: relative;
+    top: -49px;
+    cursor:pointer;
+	
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
+}
+
+.sh3{
+    float: right;
+    position: relative;
+    top: -42px;
+    cursor:pointer;
+	
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
+}
+
+.sh4{
+    float: right;
+    position: relative;
+    top: -35px;
+    cursor:pointer;
+	
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
+}
+
+.sh5{
+    float: right;
+    position: relative;
+    top: -32px;
+    cursor:pointer;
+	
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
+}
+
+.sh6{
+    float: right;
+    position: relative;
+    top: -32px;
+    cursor:pointer;
+	
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(245, 245, 245, 0.5) inset, 0 -5px 30px rgba(245, 245, 245, 0.25) inset, 0 1px 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;	
+}
+
+/*Block Css */
+.wpe-box-note {
+
+}
+.shb {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto 25px;
+    padding: 6px 9px;
+    width: 100%;
+	background: #eee none repeat scroll 0 0;
+    border: 1px solid #ccc;
+}
+
+
