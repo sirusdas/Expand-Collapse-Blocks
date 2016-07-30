@@ -1,0 +1,78 @@
+<div>Apple Types with no Header tag</div>
+<div class="shb">Apple Types<a class="sh0">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 1 tag
+<div class="shb"><h1>Apple Types</h1><a class="sh1">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 2 tag
+<div class="shb"><h2>Apple Types</h2><a class="sh2">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 3 tag
+<div class="shb"><h3>Apple Types</h3><a class="sh3">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 4 tag
+<div class="shb"><h4>Apple Types</h4><a class="sh4">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 5 tag
+<div class="shb"><h5>Apple Types</h5><a class="sh5">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+Apple Types with Header 6 tag
+<div class="shb"><h6>Apple Types</h6><a class="sh6">+</a>
+ <sh>
+   <ol>
+ 	<li>Red</li>
+ 	<li>Green</li>
+ 	<li>Blue</li>
+   </ol>
+ </sh>
+</div>
+
+</div>
